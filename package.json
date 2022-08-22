@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@chec/commerce.js": "^2.8.0",
-    "@types/chec__commerce.js": "^2.8.5"
-  }
-}
